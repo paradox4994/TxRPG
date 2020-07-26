@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding='utf-8' ?>
+<entities>
+    <monster>
+        <type>Goblin</type>
+        <HP>100</HP>
+        <MP>5</MP>
+        <STR>5</STR>
+        <INT>6</INT>
+        <DEX>5</DEX>
+        <DEF>15</DEF>
+        <XP_AWARDED>10</XP_AWARDED>
+        <GOLD_AWARDED>50</GOLD_AWARDED>
+        <category></category>
+        <description>Goblins vary in size but are smaller than Orcs or Hobgoblins. They are a green skinned race, which have pointy ears. Goblins have sharp pointy teeth. They look thin and scrawny. Goblins sometimes are seen as more intelligent than their cousin Orcs, but are often bullied by their bigger and tougher relations. Goblins form tribes, in which the biggest and hardest goblin is the leader. Goblins are often seen in company of Orc tribes. Goblins use a varying array of weapons well anything they can lay their hands on. Goblins are seen to ride wolves into battle, in which case these tend to be the vanguard of an Orc &amp; Goblin army.</description>
+        <location></location>
+    </monster>
+    <monster>
+        <type>Orc</type>
+        <HP>200</HP>
+        <MP>5</MP>
+        <STR>8</STR>
+        <INT>3</INT>
+        <DEX>10</DEX>
+        <DEF>20</DEF>
+        <XP_AWARDED>30</XP_AWARDED>
+        <GOLD_AWARDED>45</GOLD_AWARDED>
+        <category></category>
+        <description>Orc's are green skinned creatures with large sharp K9 teeth and pointy ears. They are taller than humans are but Orc's are broader and more muscular. Orc's have larger heads than humans but have thicker skulls and they have smaller brains. Another biological feature of Orc's is their ability to suffer large wounds that wound almost certainly kill humans or other races.  They seem to possess a remarkable regenerative &amp; immune system. Orc's are an aggressive race that forms tribes or war bands. Sometimes these war bands rally together to form mighty armies. Orc's are savage fighters and preferred tactics are to attack in large hordes.  Orc's use varying weapons to fight with depending on the intelligence within a particular tribe.  Savage Orc's which is a tribe that inhabit forests are poorer developed and tend to use clubs and simple weapons to attack with and do not use armour. A more advanced tribe would be equipped forged weapons and armour. Orc's use an unusual mount to get them around quickly they use giant ferocious Boars. These make good attacking cavalry.</description>
+        <location></location>
+    </monster>
+    <monster>
+        <type>Snotling</type>
+        <HP>50</HP>
+        <MP>5</MP>
+        <STR>4</STR>
+        <INT>2</INT>
+        <DEX>10</DEX>
+        <DEF>10</DEF>
+        <XP_AWARDED>2</XP_AWARDED>
+        <GOLD_AWARDED>10</GOLD_AWARDED>
+        <category></category>
+        <description>Snotlings are the smallest of the greened skinned races. Orcs &amp; Goblins use them as slaves for simple tasks as they are not intelligent creatures at about the same size of a Gnome. They are not a threat on their own to other creatures. They realise this so they form gangs that again can attack a target with numbers.</description>
+        <location></location>
+    </monster>
+    <monster>
+        <type>Witch</type>
+        <HP>35</HP>
+        <MP>25</MP>
+        <STR>3</STR>
+        <INT>25</INT>
+        <DEX>10</DEX>
+        <DEF>4</DEF>
+        <XP_AWARDED>20</XP_AWARDED>
+        <GOLD_AWARDED>80</GOLD_AWARDED>
+        <category></category>
+        <description>A woman having magic powers, especially evil ones, who appears  wearing a black cloak and pointed hat and flying on a broomstick.</description>
+        <location></location>
+    </monster>
+    <monster>
+        <type>Zombie</type>
+        <HP>35</HP>
+        <MP>25</MP>
+        <STR>3</STR>
+        <INT>25</INT>
+        <DEX>10</DEX>
+        <DEF>4</DEF>
+        <XP_AWARDED>20</XP_AWARDED>
+        <GOLD_AWARDED>80</GOLD_AWARDED>
+        <category></category>
+        <description>A dead person who has been brought back to life, but without human qualities. Zombies are not able to think and they often attack and eat living beings</description>
+        <location></location>
+    </monster>
+    <monster>
+        <type>Kobold</type>
+        <HP>35</HP>
+        <MP>25</MP>
+        <STR>3</STR>
+        <INT>25</INT>
+        <DEX>10</DEX>
+        <DEF>4</DEF>
+        <XP_AWARDED>20</XP_AWARDED>
+        <GOLD_AWARDED>80</GOLD_AWARDED>
+        <category></category>
+        <description>Kobold are small dog-man like creatures which live on the fringes of larger civilizations.Living almost exclusively in caves and occasionally small cobbled together villages Kobold maintain a position as the worlds scavengers, stealing small goods from the dead after battles and looting garbage dumping grounds. </description>
+        <location></location>
+    </monster>
+    <monster>
+        <type>Hobgoblin</type>
+        <HP>35</HP>
+        <MP>25</MP>
+        <STR>3</STR>
+        <INT>25</INT>
+        <DEX>10</DEX>
+        <DEF>4</DEF>
+        <XP_AWARDED>20</XP_AWARDED>
+        <GOLD_AWARDED>80</GOLD_AWARDED>
+        <category></category>
+        <description>A human being that has such extraordinary goblin like qualities.Hob goblins are just a tad creepier than goblin, they tend to have a little stronger hitch in their getalong, a little stronger smell.</description>
+        <location></location>
+    </monster>
+    <player type="Warrior">
+        <type>1</type>
+        <HP>200</HP>
+        <MP>25</MP>
+        <STR>15</STR>
+        <INT>5</INT>
+        <DEX>10</DEX>
+        <DEF>10</DEF>
+        <category></category>
+        <description></description>
+        <location></location>
+        <eq_wep>Simple Sword</eq_wep>
+        <eq_arm>Leather Armour</eq_arm>
+    </player>
+        <player type="Archer">
+        <type>2</type>
+        <HP>35</HP>
+        <MP>15</MP>
+        <STR>9</STR>
+        <INT>10</INT>
+        <DEX>20</DEX>
+        <DEF>5</DEF>
+        <category></category>
+        <description></description>
+        <location></location>
+        <eq_wep>Bow</eq_wep>
+        <eq_arm>Leather Armour</eq_arm>
+    </player>
+        <player type="Mage">
+        <type>3</type>
+        <HP>25</HP>
+        <MP>25</MP>
+        <STR>6</STR>
+        <INT>20</INT>
+        <DEX>5</DEX>
+        <DEF>5</DEF>
+        <category></category>
+        <description></description>
+        <location></location>
+        <eq_wep>Staff</eq_wep>
+        <eq_arm>Leather Armour</eq_arm>
+    </player>
+</entities>

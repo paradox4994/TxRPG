@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<root>
+    <monster>
+        <type>Goblin</type>
+        <hp>100</hp>
+        <mp>20</mp>
+    </monster>
+    <monster>
+        <type>Orc</type>
+        <hp>200</hp>
+        <mp>10</mp>
+    </monster>
+    <monster>
+        <type>Snotling</type>
+        <hp>50</hp>
+        <mp>5</mp>
+    </monster>
+</root>

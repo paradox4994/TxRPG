@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <potion>
+        <name>Healing Potion</name>
+        <price>5</price>
+        <desc>Heals 5 points of HP</desc>
+    </potion>
+    <potion>
+        <name>Mana Potion</name>
+        <price>10</price>
+        <desc>Heals 5 points of MP</desc>
+    </potion>
+    <weapon>
+        <name>Simple Sword</name>
+        <price>100</price>
+        <desc>Just a simple sword</desc>
+    </weapon>
+    <weapon>
+        <name>Celtic Sword</name>
+        <price>100</price>
+        <desc>The Celtic sword was a double-edged sword with a lenticular cross-section. It was used by the infantry division, and would later be responsible for the evolution of the claymore.</desc>
+    </weapon>
+    <weapon>
+        <name>Claymore</name>
+        <price>100</price>
+        <desc>This was a Scottish two-handed sword developed during the Medieval Age, and was most probably influenced by the longsword. It’s characterized by its cruciform hilt, double-edged blade, and lobed pommels on either side. It was wielded by mostly foot soldiers.</desc>
+    </weapon>
+    <weapon>
+        <name>Cutlass</name>
+        <price>100</price>
+        <desc>This was a short, broad saber, with a straight or slightly curved blade, mostly used by the navy. It had a pistol-like grip, which made it easy for drawing at a moment’s notice. It gained notoriety because it was constantly used by pirates like William Kidd and Blackbeard. In the 20th century, it was declared by rule that cutlasses would be used for ceremonial purposes and not by landing parties.</desc>
+    </weapon>
+    <weapon>
+        <name>Katana</name>
+        <price>100</price>
+        <desc>The katana is a single-bladed sword with a curved tip. The circular or squared guard was used to block swinging attacks. It was mostly associated with the Feudal Period, where samurai could wear their swords in public. It was banned in the Meiji Period, and only worn by the military police.</desc>
+    </weapon>
+    <weapon>
+        <name>Bow</name>
+        <price>100</price>
+        <desc>Just a simple bow</desc>
+    </weapon>
+    <weapon>
+        <name>Staff</name>
+        <price>200</price>
+        <desc>Just a simple Sraff</desc>
+    </weapon>
+    <armour>
+        <name>Leather Armour</name>
+        <price>50</price>
+    </armour>
+</items>
